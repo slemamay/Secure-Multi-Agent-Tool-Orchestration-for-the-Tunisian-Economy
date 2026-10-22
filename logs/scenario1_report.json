@@ -1,0 +1,82 @@
+{
+  "occupancy_rate_by_region": {
+    "Bizerte, Beja": 14.44,
+    "Gafsa-Tozeur": 13.33,
+    "Jerba-Zarzis, Gabes": 35.11,
+    "Mahdia Sfax": 31.22,
+    "Monastir - Skanes": 36.33,
+    "Nabeul - Hammamet": 24.33,
+    "Sbeitla-Kasserine": 16.11,
+    "Sousse - Kairouan": 28.89,
+    "Tabarka-Ain Draham": 26.22,
+    "Tunis - Zaghouan": 21.78,
+    "Yasmine Hammamet": 33.33
+  },
+  "top_region": "Monastir - Skanes",
+  "alerts": [
+    {
+      "region": "Bizerte, Beja",
+      "avg_occupancy_rate": 14.44,
+      "threshold": 30.0
+    },
+    {
+      "region": "Gafsa-Tozeur",
+      "avg_occupancy_rate": 13.33,
+      "threshold": 30.0
+    },
+    {
+      "region": "Nabeul - Hammamet",
+      "avg_occupancy_rate": 24.33,
+      "threshold": 30.0
+    },
+    {
+      "region": "Sbeitla-Kasserine",
+      "avg_occupancy_rate": 16.11,
+      "threshold": 30.0
+    },
+    {
+      "region": "Sousse - Kairouan",
+      "avg_occupancy_rate": 28.89,
+      "threshold": 30.0
+    },
+    {
+      "region": "Tabarka-Ain Draham",
+      "avg_occupancy_rate": 26.22,
+      "threshold": 30.0
+    },
+    {
+      "region": "Tunis - Zaghouan",
+      "avg_occupancy_rate": 21.78,
+      "threshold": 30.0
+    }
+  ],
+  "bed_capacity_by_region": {
+    "Bizerte - Beja": 2691.0,
+    "Gafsa-Tozeur": 5763.0,
+    "Jerba-Zarzis, Gabes": 53114.0,
+    "Mahdia Sfax": 14125.0,
+    "Monastir - Skanes": 21130.0,
+    "Nabeul - Hammamet": 41264.0,
+    "Sbeitla-Kasserine": 937.0,
+    "Sousse - Kairouan": 38273.0,
+    "Tabarka-Ain Draham": 4745.0,
+    "Tunis - Zaghouan": 22650.0,
+    "Yasmine Hammamet": 19542.0
+  },
+  "establishments_by_region": {
+    "Bizerte - Beja": 38,
+    "Gafsa-Tozeur": 52,
+    "Jerba-Zarzis, Gabes": 150,
+    "Mahdia Sfax": 82,
+    "Monastir - Skanes": 47,
+    "Nabeul - Hammamet": 131,
+    "Number of Establishments in all tourist regions in Tunisia": 905,
+    "Sbeitla-Kasserine": 14,
+    "Sousse - Kairouan": 105,
+    "Tabarka-Ain Draham": 27,
+    "Tunis - Zaghouan": 133,
+    "Yasmine Hammamet": 43
+  },
+  "generated_at": "2026-05-04T11:19:30.292141+00:00",
+  "run_id": "UNKNOWN"
+}
